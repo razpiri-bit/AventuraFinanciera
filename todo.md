@@ -1,0 +1,17 @@
+- [x] Generar imágenes de personajes.
+- [x] Generar imágenes de entornos.
+- [x] Generar audios para las introducciones de personajes y módulos.
+- [x] Proporcionar prompts para la generación de videos (completado, pero el usuario los generará externamente).
+- [x] Organizar los assets multimedia generados para facilitar el desarrollo del frontend.
+- [x] Crear la aplicación React con interfaz de usuario atractiva.
+- [x] Implementar la visualización de personajes y módulos.
+- [x] Integrar los assets multimedia en la aplicación.
+- [x] Probar la aplicación localmente en el navegador.
+- [x] Implementar la lógica de juegos específicos para cada módulo.
+- [x] Crear el sistema de backend para gestionar el progreso del usuario.
+- [x] Implementar API REST para el sistema de gamificación.
+- [x] Probar las APIs del backend.
+- [x] Integrar frontend con backend.
+- [x] Probar el flujo completo del juego.
+- [x] Verificar que el sistema de recompensas funciona correctamente.
+
